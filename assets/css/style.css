@@ -1,3 +1,4 @@
+love-maths-2.0-sourcecode/02-adding-some-javascript/02-creating-event-listeners/assets/css/style.css @AJGreaves AJGreaves Add sourcecode for adding event listeners lesson. History 1 contributor 252 lines (207 sloc) 3.57 KB
 /* --------- Global style */
 
 body {
@@ -116,7 +117,7 @@ body {
     font-size: 1rem;
     color: #445361;
     position: relative;
-    left: 0.5rem;
+    left: -0.5em;
 }
 
 .btn--blue {
